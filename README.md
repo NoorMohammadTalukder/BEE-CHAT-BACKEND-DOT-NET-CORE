@@ -10,7 +10,7 @@ Frontend was build using VUE JS 3. <br> Link: https://github.com/NoorMohammadTal
   <li>1 Tier Architecture</li>
   <li>SOLID</li>
 </ul>
-<h2>BAckend </h2>
+<h2>Backend </h2>
 <h3>Key Technologies: </h3>
 <ul>
   <li>Visual Studio 2022 </li>
