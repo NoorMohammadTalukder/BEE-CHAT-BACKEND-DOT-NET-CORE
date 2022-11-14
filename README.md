@@ -5,12 +5,15 @@ This is the backend of BeeChat app using <b>ASP.NET CORE web api</b><br>
 This backend developed in code first approach manner.
 <h2>Frontend </h2>
 Frontend was build using VUE JS 3. <br> Link: https://github.com/NoorMohammadTalukder/BeeChat-UI-Updated
+
+<h2>Backend </h2>
+
 <h3>Follwed architecturde and principle: </h3>
 <ul>
   <li>1 Tier Architecture</li>
   <li>SOLID</li>
 </ul>
-<h2>Backend </h2>
+
 <h3>Key Technologies: </h3>
 <ul>
   <li>Visual Studio 2022 </li>
